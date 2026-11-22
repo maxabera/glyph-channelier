@@ -1,0 +1,211 @@
+{
+    "user_data_class": {
+        "about": {
+            "version": "1.0.0",
+            "appId": "3736620315034105460",
+            "appName": "glyph-channelier-pro",
+            "appShortName": "Glyph Channelier Pro",
+            "appVersion": "V4.0.0",
+            "eMail": "info@aberamax.com",
+            "timeCreated": "2026-11-01T14:23:29.9943001Z"
+        },
+        "channelColorPalette": {
+            "version": "1.0.0",
+            "paletteListName": "default_palette_list",
+            "selectedIndex": 5,
+            "selectedPalette": "Ice Cream",
+            "uiConfigGroupExpanded": false
+        },
+        "channelProfile": {
+            "version": "1.0.0",
+            "baseLayer": 0.0,
+            "channelBottom": {
+                "version": "1.0.0",
+                "bottomType": "bottom_I",
+                "doFillet": false,
+                "linerThickness": 0.2,
+                "partDetails": {
+                    "version": "1.0.0",
+                    "combineOverlap": 0.01,
+                    "detailGroupExpanded": false,
+                    "doMakePart": true,
+                    "doShowPart": true,
+                    "doWeld": true,
+                    "gapHorizontal": 0.01,
+                    "gapVertical": 0.010000000000000002,
+                    "wallExtrudeMethod": "automatic",
+                    "weldOverlap": 0.02
+                },
+                "socle": {
+                    "version": "1.0.0",
+                    "alwaysVisible": false,
+                    "angleRad": 0.5235987755982988,
+                    "enabled": false,
+                    "length": 0.2,
+                    "thickness": 0.4,
+                    "uiGroupExpanded": false
+                },
+                "socleGroupExpanded": false,
+                "thickness": 0.4,
+                "wallGroupExpanded": false,
+                "wallHeight": 0.8,
+                "wallThickness": 0.2,
+                "weldBottomWithWalls": false
+            },
+            "channelCapital": {
+                "version": "1.0.0",
+                "angleRad": 0.7853981633974483,
+                "depth": 0.12,
+                "doPolygonize": true,
+                "filletGroupExpanded": true,
+                "filletPart": {
+                    "version": "1.0.0",
+                    "doCut": false,
+                    "doFillet": true,
+                    "holeMaxAngle": 1.0471975511965976,
+                    "maxAngle": 6.283185307179586,
+                    "minAngle": 0.0,
+                    "outerMinAngle": 5.235987755982989,
+                    "radius": 0.1
+                },
+                "maxDeviation": 0.01,
+                "maxHeight": 10.0,
+                "partDetails": {
+                    "version": "1.0.0",
+                    "combineOverlap": 0.01,
+                    "detailGroupExpanded": false,
+                    "doMakePart": true,
+                    "doShowPart": true,
+                    "doWeld": true,
+                    "gapHorizontal": 0.01,
+                    "gapVertical": 0.01,
+                    "wallExtrudeMethod": "automatic",
+                    "weldOverlap": 0.020000000000000004
+                },
+                "thickness": 0.1
+            },
+            "channelGlass": {
+                "version": "1.0.0",
+                "bellyEnabled": true,
+                "bellyGroupExpanded": true,
+                "bellyThickness": 0.0,
+                "bellyWallsThickness": 0.0,
+                "depth": 0.0,
+                "outlineOut": 0.0,
+                "partDetails": {
+                    "version": "1.0.0",
+                    "combineOverlap": 0.01,
+                    "detailGroupExpanded": false,
+                    "doMakePart": true,
+                    "doShowPart": false,
+                    "doWeld": true,
+                    "gapHorizontal": 0.010000000000000002,
+                    "gapVertical": 0.01,
+                    "wallExtrudeMethod": "automatic",
+                    "weldOverlap": 0.02
+                },
+                "thickness": 0.4,
+                "weldGlass": false
+            },
+            "channelRailings": {
+                "version": "1.0.0",
+                "angleRad": 0.0,
+                "height": 0.4,
+                "partDetails": {
+                    "version": "1.0.0",
+                    "combineOverlap": 0.01,
+                    "detailGroupExpanded": false,
+                    "doMakePart": true,
+                    "doShowPart": true,
+                    "doWeld": true,
+                    "gapHorizontal": 0.01,
+                    "gapVertical": 0.01,
+                    "wallExtrudeMethod": "automatic",
+                    "weldOverlap": 0.02
+                },
+                "thickness": 0.2
+            },
+            "channelWall": {
+                "version": "1.0.0",
+                "partDetails": {
+                    "version": "1.0.0",
+                    "combineOverlap": 0.01,
+                    "detailGroupExpanded": true,
+                    "doMakePart": true,
+                    "doShowPart": true,
+                    "doWeld": true,
+                    "gapHorizontal": 0.01,
+                    "gapVertical": 0.01,
+                    "wallExtrudeMethod": "automatic",
+                    "weldOverlap": 0.02
+                },
+                "socle": {
+                    "version": "1.0.0",
+                    "alwaysVisible": false,
+                    "angleRad": 0.0,
+                    "enabled": false,
+                    "length": 0.2,
+                    "thickness": 0.5,
+                    "uiGroupExpanded": false
+                },
+                "thicknessIn": 0.0,
+                "thicknessOut": 0.16000000000000003
+            },
+            "doPolygonize": false,
+            "glyphDepth": 4.0,
+            "location": {
+                "version": "1.0.0",
+                "isExternalComponent": false,
+                "targetFolderPath": "FCHF_Test"
+            },
+            "maxPolygonDeviation": 0.01,
+            "partDebug": {
+                "version": "1.0.0",
+                "highVerbosity": false,
+                "uiGroupExpanded": false,
+                "uiGroupVisible": false
+            },
+            "partProfile": {
+                "version": "1.0.0",
+                "activeDetails": 255,
+                "doPreview": false,
+                "profileName": "default_profile",
+                "restoreDoPreview": false,
+                "showDesignWarnings": true,
+                "showProgress": true,
+                "uiGroupAdvancedConfigExpanded": false,
+                "uiGroupConfigProfileExpanded": false
+            },
+            "uiConfigGroupExpanded": false
+        },
+        "configImpexGroup": {
+            "version": "1.0.0",
+            "impexGroupName": "impex-user-profile",
+            "name": "Corona-35",
+            "namesHistory": [],
+            "namesHistoryCount": 8,
+            "showNamesHistory": false,
+            "uiGroupExpanded": true
+        },
+        "dataHeader": {
+            "version": "1.0.0",
+            "addinName": "Glyph Channelier Pro",
+            "addinVersion": "V4.0.0",
+            "dataClass": "user_data_class",
+            "dataComment": "Corona 35 cm large - simple settings",
+            "dataName": "Corona-35"
+        },
+        "paletteImpexGroup": {
+            "version": "1.0.0",
+            "impexGroupName": "impex-user-profile",
+            "name": "noname",
+            "namesHistory": [],
+            "namesHistoryCount": 8,
+            "showNamesHistory": false,
+            "uiGroupExpanded": false
+        },
+        "user_data": {
+            "version": "1.0.0"
+        }
+    }
+}

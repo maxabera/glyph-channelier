@@ -11,20 +11,23 @@ can try the workflow without designing everything from scratch.
 
 ## What you find here
 
-- **Channel profiles** (JSON): settings for walls, faces, backs and LED space that you load in the
-  GlyphChannelier dialog and change to suit your sign.
-- **Demo objects**: source shapes (SVG/DXF) and finished Autodesk®&nbsp;Fusion&nbsp;360™ designs made from them.
-- **Screenshots**: finished letters and the add-in in use.
+- [`objects/`](objects): example DXF shapes, each with its channel profile (JSON) and a screenshot
+  of the finished object. Every object folder has its own README.
+  - [Corona](objects/corona): a complex shape with many curves and inner parts.
+  - [Hope](objects/hope): sharp spikes of the capital, cut off or left sharp.
+- [`screenshots/`](screenshots): the add-in in use.
 
 ## How to use a channel profile
 
 1. Download the profile file (`.json`).
-2. In Autodesk®&nbsp;Fusion&nbsp;360™, start GlyphChannelier and load the profile in its dialog.
+2. In Autodesk®&nbsp;Fusion&nbsp;360™, start GlyphChannelier, select the **CONFIG** tab and load the profile.
 3. Select your vector shape and create the channel letter.
 
 The user manual of the add-in describes every profile value.
 
 ## Get the add-in
+
+More about GlyphChannelier, with pictures and help: https://aberamax.com/tools/channelier/glyph-channelier/
 
 GlyphChannelier is available in the [Autodesk App Store](https://apps.autodesk.com/)
 (search for "GlyphChannelier"). It runs in Autodesk®&nbsp;Fusion&nbsp;360™ on Windows and macOS.
